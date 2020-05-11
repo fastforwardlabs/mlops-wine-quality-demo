@@ -1,0 +1,5 @@
+{
+    "python.dataScience.allowUnauthorizedRemoteConnection": true,
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "/usr/local/bin/python3"
+}

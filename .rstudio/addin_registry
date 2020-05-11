@@ -1,0 +1,47 @@
+{
+    "clipr::clipr_output" : {
+        "binding" : "clipr_output",
+        "description" : "Copies the console output of a selected expression to the system clipboard",
+        "interactive" : false,
+        "name" : "Output to clipboard",
+        "ordinal" : 2,
+        "package" : "clipr",
+        "title" : ""
+    },
+    "clipr::clipr_result" : {
+        "binding" : "clipr_result",
+        "description" : "Copies the results of a selected expression to the system clipboard",
+        "interactive" : false,
+        "name" : "Value to clipboard",
+        "ordinal" : 1,
+        "package" : "clipr",
+        "title" : ""
+    },
+    "devtools::test_coverage" : {
+        "binding" : "test_coverage",
+        "description" : "Calculate and report the test coverage for the current package, using `devtools::test_coverage()`.",
+        "interactive" : false,
+        "name" : "Report test coverage for a package",
+        "ordinal" : 5,
+        "package" : "devtools",
+        "title" : ""
+    },
+    "devtools::test_coverage_file" : {
+        "binding" : "test_coverage_file",
+        "description" : "Calculate and report test coverage for the current test file, using `devtools::test_coverage_file()`.",
+        "interactive" : false,
+        "name" : "Report test coverage for a file",
+        "ordinal" : 4,
+        "package" : "devtools",
+        "title" : ""
+    },
+    "devtools::test_file" : {
+        "binding" : "test_file",
+        "description" : "Run the current test file, using `devtools::test_file()`.",
+        "interactive" : false,
+        "name" : "Run a test file",
+        "ordinal" : 3,
+        "package" : "devtools",
+        "title" : ""
+    }
+}

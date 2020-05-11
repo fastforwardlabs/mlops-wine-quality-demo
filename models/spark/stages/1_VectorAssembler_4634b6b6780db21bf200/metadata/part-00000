@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1555082150001,"sparkVersion":"2.3.2.3.1.0.0-78","uid":"VectorAssembler_4634b6b6780db21bf200","paramMap":{"inputCols":["fixedAcidity","volatileAcidity","citricAcid","residualSugar","chlorides","freeSulfurDioxide","totalSulfurDioxide","density","pH","sulphates","Alcohol"],"outputCol":"features"}}

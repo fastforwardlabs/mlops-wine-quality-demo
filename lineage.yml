@@ -1,0 +1,5 @@
+{
+  "Predict w/ Monitoring & Lineage": {
+    "hive_table_qualified_names": ["default.wineds_ext_nolabel@cm", "default.wineds_ext@cm"]
+  }
+} 
